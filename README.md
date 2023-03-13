@@ -11,4 +11,4 @@ BusLinker  <--- 8.4V power<br>
 |<br>
 LX16 Servos daisy-chained<br>
                               
-The project was written using VScode natively on the Jetson and I have included the tasks.json<br>                       
+The project was written using VScode natively on the Jetson<br>                       
